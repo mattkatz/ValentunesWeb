@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: ARIAL;
+  background-color: #ffebdb;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+input, textarea {
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+
+form {
+  text-align: center;
+}
+
+form#song-filter{
+  text-align: left;
+}
